@@ -1,0 +1,66 @@
+<html>
+ <head>
+Hello!
+</head>
+<body>
+<h1> Diana Ents</h1>
+<p>Frontend Newbie Developer</p>
+<h3><i>Social media links:</i></h3>
+<a href="https://twitter.com/dinzinz">Twitter</a>
+<a href="https://github.com/dinzinz">Github</a>
+<a href="https://discordapp.com/users/608689574348193831">Discord</a>
+<a href="https://t.me/dinzinz">Telegram</a>
+<a href="https://linkedin.com/in/dinz"LinkedIn></a>
+<a href="https://www.facebook.com/dinxinz/">Facebook</a>
+<a href="mailto:sifieli@protonmail.com">E-mail</a>
+<h2>Summary</h2>
+<h3>"Science is one of the art, and art is made by science" </h3>
+<p>20 y.o. girl with ASD. Very talented in digital art, interested in psychology.</p>
+<p>Loves any type of work where I can focus my attention and energy on a creative, theoretical, and logical process.</p>
+<p>Likes to work independently with plenty of quiet, private time to concentrate and complete my thinking process.</p>
+<p><b>Hey, look at this sad puppy :D</b></p>
+<img src="dinz.jpg" alt="picture of my face" width="300" height="300">
+</a>
+<h2><b><i>Expirience with universities</i></b></h2>
+    <i>College of Saint Petersburg State University of Economics</i></li>
+    <p>Unfortunately, my specialization is involved with tourism, I think this isn't relevant</p>
+    <p>At least I have specialized secondary education</p>
+    <li>Saint-Petersburg State University of Industrial Technologies and Design</li>
+    <p>My specialization here was  Automatization of technological processes and management in multi-industry production complexes</p>
+    <p>But I took only 1st year. Correspondence training wasn't for me, huh...</p>
+    <p>Also I have a chance to go to German by program of Ethnic German repatriates so it'll be nice if someone help me to do it</p>
+    <li><i>RSS School</i></li>
+    <p>Started in June, let's see where it'll go</p>
+</ul>
+<h3><i>Skills</i></h3>
+<table border="2">
+<tr>
+    <tr>
+        <th>Technologies</th>
+        <th>Soft Skills</th>
+        <tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2">HTML</tdowspan=>
+            <td>INTP-A</td>
+        </tr>
+    <tr>
+            <td>5w4</td>
+        </tr>
+    </tbody>
+</table>
+<h4><i>Write me a message but actually don't because I can make only this form w/o any additional functions</i></h4>
+<form>
+    <input placeholder="E-mail" required><br>
+    <input placeholder="Password?" required><br>
+    <input placeholder="Name" required><br>
+    <textarea placeholder="Write your gorgeous text here cutie~"required=""></textarea><br>
+        <input type="Submit" value="SEND">
+</form>
+<p>what about some music? Pfft no music because audio file is in my computer :P</p>
+<audio controls>
+    <source src="Madonna-Hollywood.mp3">
+      </audio>
+</body>
+</html>
